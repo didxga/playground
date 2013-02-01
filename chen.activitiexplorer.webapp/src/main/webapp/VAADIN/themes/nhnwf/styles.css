@@ -1,0 +1,10 @@
+@import url(../reindeer/styles.css);
+
+
+.main_nav {background-color:blue}
+.main_left{background-color:green}
+.main_win {background-color:black}
+.main_right{background-color:grey}
+.main_central{background-color:orange}
+.main_menu_bar{background-color:purple}
+.search_box{}
